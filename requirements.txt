@@ -2,7 +2,7 @@ bokeh==0.12.13
 certifi==2018.1.18
 chardet==3.0.4
 idna==2.6
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 numpy==1.14.0
 pandas==0.22.0
